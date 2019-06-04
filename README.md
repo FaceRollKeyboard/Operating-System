@@ -1,2 +1,2 @@
 # Operating-System
-Undergraduate course - -operating system
+Undergraduate Course --Operating System
